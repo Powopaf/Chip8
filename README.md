@@ -1,2 +1,3 @@
 # Chip8
-Chip 8 emulateur in C++ 
+## Purpose 
+This a student project so I can learn C++
